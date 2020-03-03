@@ -1,0 +1,6 @@
+Name|Phone
+John;1234
+Bob;5678
+Alice;9432
+Marx;7639
+Toud;1234
