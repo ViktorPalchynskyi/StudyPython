@@ -1,7 +1,7 @@
 import random
 
-# player1 = input("Player 1 name: ")
-# player2 = input("Player 2 name: ")
+player1 = input("Player 1 name: ")
+player2 = input("Player 2 name: ")
 
 number_of_sticks = 10
 player_turn = 1
